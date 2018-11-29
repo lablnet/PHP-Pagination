@@ -1,7 +1,7 @@
 {
-    "name": "lablnet/avatar",
-    "description": "PHP Avatar package.",
-    "keywords": ["php", "avatar","psr-3","free","package","Lablnet"],
+    "name": "lablnet/pagination",
+    "description": "PHP Pagination package.",
+    "keywords": ["php", "pagination","psr-3","free","package","Lablnet"],
     "license": "MIT",
     "authors": [
         {
